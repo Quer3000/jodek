@@ -1,0 +1,15 @@
+{
+  "name": "Quer3000",
+  "linktrees": [
+    {
+      "platform": "YouTube",
+      "picture": "https://cdn-icons-png.flaticon.com/512/1384/1384060.png",
+      "link": "https://www.youtube.com"
+    },
+    {
+      "platform": "Instagram",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png",
+      "link": "https://www.instagram.com/"
+    }
+  ]
+}
